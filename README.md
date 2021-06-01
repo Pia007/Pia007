@@ -1,7 +1,7 @@
 ### Thanks for taking a peak.👋
 
 
-Hi I am Pia. Thank you for viewing my profile.  Feel reach to reach out to me!
+Hi I am Pia. Thank you for viewing my profile.  Feel free to reach out to me for more information.
 
 Here is  brief description:
 
