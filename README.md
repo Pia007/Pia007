@@ -1,9 +1,9 @@
 ### Thanks for taking a peak.👋
 
 
-**Pia007/Pia007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I am Pia. Thank you for viewing my profile.  Feel reach to reach out to me!
 
-Here are some ideas to get you started:
+Here is  brief description:
 
 - 🔭 I’m currently working on a callobaration at Reskill Americans.
 
