@@ -1,7 +1,7 @@
 ### Thanks for taking a peak.👋
 
 
-Hi I am Pia. Thank you for viewing my profile.  Feel free to reach out to me for more information.
+Hi I am Pia. Thank you for viewing my profile.  Take a look at my repositories and don't forget to view the live deployments. Feel free to reach out to me for more information.
 
 Here is  brief description:
 
