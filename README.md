@@ -15,7 +15,7 @@ Here is  brief description:
 
 - 💬 I have an interdisciplinary degree in Bichemistry & Molecular Biology and I have always had a interest in computer programming. 
 
-- 📫 Feel free to reach me at  LinkedIn https://linkedin.com/in/pia-torain-dev or Twitter https://twitter.com/FeenixRizn
+- 📫 Feel free to reach me at  [LinkedIn](https://linkedin.com/in/pia-torain-dev) or [Twitter](https://twitter.com/FeenixRizn).
 
 - 😄 Pronouns: she/her
 
