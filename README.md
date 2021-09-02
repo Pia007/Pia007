@@ -5,7 +5,7 @@ Hi I am Pia. Thank you for viewing my profile.  Take a look at my repositories a
 
 Here is  brief description:
 
-- 🔭 I’m currently working on a callobaration at Reskill Americans.
+- 🔭 I’m currently working on a collaboration  at Reskill Americans.
 
 - 🌱 I’m currently learning HTML5, CSS, JavaScript, ReactJS and  Node.js.
 
