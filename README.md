@@ -60,8 +60,13 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&" alt="pia007" />
 </p> -->
+
+
+<!--START_SECTION:waka-->
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pia007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
+<!--END_SECTION:waka-->
 
 
