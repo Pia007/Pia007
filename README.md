@@ -23,7 +23,8 @@ Here is  brief description:
 <details>
   <summary>Github Statistics...</summary>
   <p align ="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pia007&theme=algolia&=_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Pia007&theme=algolia&show_icons=true&count_private=true)
+      "/>
   </p>
 </details>
 
