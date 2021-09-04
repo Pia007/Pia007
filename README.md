@@ -27,9 +27,13 @@ Here is  brief description:
   </p>
 </details>
 
-<!-- <hr>
+<hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pia007) -->
+<details>
+  <summary>Languages..</summary>
+  <p align ="center">
+    <figure><embed src="https://wakatime.com/share/@Pia007/80a7d29c-955a-4f92-9b73-30d8ce26a6ca.svg"></embed></figure>
+  </p>
 
 
 
