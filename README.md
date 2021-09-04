@@ -21,5 +21,5 @@ Here is  brief description:
 
 - ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github.com/Pia007/Pia007/blob/main/images/stat.svg" alt="Pia WakaTime Activity"/>
+
