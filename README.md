@@ -1,40 +1,26 @@
-### Thanks for taking a peak.👋
+<h1 align="center">Hi 👋, I'm Pia</h1>
+<h3 align="center">Thanks for taking a peak!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
 
-Hi I am Pia. Thank you for viewing my profile.  Take a look at my repositories and don't forget to view the live deployments. Feel free to reach out to me for more information.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pia007" alt="pia007" /></a> </p>
 
-Here is  brief description:
+<p align="left"> <a href="https://twitter.com/feenixrizn" target="blank"><img src="https://img.shields.io/twitter/follow/feenixrizn?logo=twitter&style=for-the-badge" alt="feenixrizn" /></a> </p>
 
-- 🔭 I’m currently working on a collaboration  at Reskill Americans.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/feenixrizn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="feenixrizn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pia torain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pia torain" height="30" width="40" /></a>
+</p>
 
-- 🌱 I’m currently learning HTML5, CSS, JavaScript, ReactJS and  Node.js.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-- 👯 I’m looking to collaborate on anything that's exciting and offers a great learning experience.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact" alt="pia007" /></p>
 
-- 🤔 I’m looking for help with ReactJS Hooks & Components and open to any information that will assist in my development.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en" alt="pia007" /></p>
 
-- 💬 I have an interdisciplinary degree in Biochemistry & Molecular Biology and I have always had a interest in computer programming. 
-
-- 📫 Feel free to reach me on  [LinkedIn](https://linkedin.com/in/pia-torain-dev) or [Twitter](https://twitter.com/FeenixRizn).
-
-- 😄 Pronouns: she/her
-
-- ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
-<details>
-  <summary>Github Statistics...</summary>
-  <p align ="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pia007&count_private=true&include_all_commits=trueshow_icons=true&theme=algolia" />
-  </p>
-</details>
-
-<hr>
-
-<!-- <details>
-  <summary>Languages..</summary>
-  <p align ="center">
-    <figure><embed src="https://wakatime.com/share/@Pia007/80a7d29c-955a-4f92-9b73-30d8ce26a6ca.svg"></embed></figure>
-  </p> -->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&" alt="pia007" /></p>
 
 
 
