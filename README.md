@@ -29,12 +29,12 @@ Here is  brief description:
 
 <hr>
 
-<!-- <details>
+<details>
   <summary>Top Languages...</summary>
   <p align ="center">
-    [![Top Langs]"(https://github-readme-stats.vercel.app/api/top-langs/?username=Pia007)(https://github.com/Pia007/github-readme-stats)"
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pia007)(https://github.com/Pia007/github-readme-stats)
 
   </p>
-</details> -->
+</details>
 
 
