@@ -32,7 +32,7 @@ Here is  brief description:
 <details>
   <summary>Top Languages...</summary>
   <p align ="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007)](https://github.com/pia007/github-readme-stats)
+    <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Pia007)(https://github.com/Pia007/github-readme-stats)" />
 
   </p>
 </details>
