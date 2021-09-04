@@ -20,6 +20,10 @@ Here is  brief description:
 - 😄 Pronouns: she/her
 
 - ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
-
-<img src="https://github.com/Pia007/Pia007/blob/main/images/stat.svg" alt="Pia WakaTime Activity"/>
+<details>
+  <summary>Github Statistics..</summary>
+  <p align ="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pia007&theme=algolia=true"/>
+  </p>
+</details>
 
