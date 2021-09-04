@@ -20,3 +20,6 @@ Here is  brief description:
 - 😄 Pronouns: she/her
 
 - ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
