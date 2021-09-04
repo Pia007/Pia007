@@ -27,3 +27,14 @@ Here is  brief description:
   </p>
 </details>
 
+<hr>
+
+<details>
+  <summary>Top Languages...</summary>
+  <p align ="center">
+    <img src="//github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)
+" />
+  </p>
+</details>
+
+
