@@ -21,7 +21,7 @@ Here is  brief description:
 
 - ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
 <details>
-  <summary>Github Statistics..</summary>
+  <summary>Github Statistics...</summary>
   <p align ="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Pia007&theme=algolia&=_icons=true"/>
   </p>
