@@ -14,7 +14,7 @@ Here is  brief description:
 
 <!-- - 🌱 I’m currently learning HTML5, CSS, JavaScript, ReactJS and  Node.js. -->
 
-- 👯 I would love to collaborate anything that's exciting and offers a great learning experience.
+- 👯 I would love to collaborate on anything that's exciting and offers a great learning experience.
 
 - 🤔 I’m looking for help with ReactJS Hooks & Components and open to any information that will assist in my development.
 
@@ -24,7 +24,7 @@ Here is  brief description:
 
 - ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
 
-- 📫 Feel free to reach me on
+<h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
    [LinkedIn](https://linkedin.com/in/pia-torain-dev) or [Twitter](https://twitter.com/FeenixRizn).
  -->
