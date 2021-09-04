@@ -1,19 +1,42 @@
 <h1 align="center">Hi 👋, I'm Pia</h1>
 <h3 align="center">Thanks for taking a peak!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pia007" alt="pia007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/feenixrizn" target="blank"><img src="https://img.shields.io/twitter/follow/feenixrizn?logo=twitter&style=for-the-badge" alt="feenixrizn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/feenixrizn" target="blank"><img src="https://img.shields.io/twitter/follow/feenixrizn?logo=twitter&style=for-the-badge" alt="feenixrizn" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/feenixrizn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="feenixrizn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pia torain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pia torain" height="30" width="40" /></a>
+
+Here is  brief description:
+
+- 🔭 I’m currently working on a collaboration at [Reskill Americans](https://reskillamericans.org/training/).
+
+<!-- - 🌱 I’m currently learning HTML5, CSS, JavaScript, ReactJS and  Node.js. -->
+
+- 👯 I would love to collaborate anything that's exciting and offers a great learning experience.
+
+- 🤔 I’m looking for help with ReactJS Hooks & Components and open to any information that will assist in my development.
+
+- 💬 I have an interdisciplinary degree in Biochemistry & Molecular Biology and I have always had a interest in computer programming. 
+
+- 😄 Pronouns: she/her
+
+- ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
+
+- 📫 Feel free to reach me on
+<!-- <p align="left">
+   [LinkedIn](https://linkedin.com/in/pia-torain-dev) or [Twitter](https://twitter.com/FeenixRizn).
+ -->
+<a href="https://twitter.com/feenixrizn" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="feenixrizn" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/pia torain" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pia torain" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" margin-bottom="10px">Languages and Tools:</h3>
+
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="45"/> 
