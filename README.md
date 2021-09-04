@@ -32,8 +32,8 @@ Here is  brief description:
 <details>
   <summary>Top Languages...</summary>
   <p align ="center">
-    <img src="//github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)
-" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007)](https://github.com/pia007/github-readme-stats)
+
   </p>
 </details>
 
