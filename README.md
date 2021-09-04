@@ -27,9 +27,9 @@ Here is  brief description:
   </p>
 </details>
 
-<hr>
+<!-- <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pia007)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pia007) -->
 
 
 
