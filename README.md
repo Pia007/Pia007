@@ -99,7 +99,7 @@
 <br/>
 <p align="left">
    
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
    
 </p> 
 <br/>
