@@ -90,7 +90,7 @@
 
 <p align="left">
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pia007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
    
 </p>
 <br/>
@@ -100,15 +100,7 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
 </p>  
    
-<br/>
-  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
 
-</p>
-
- <br/>    
-   
 
 
 
