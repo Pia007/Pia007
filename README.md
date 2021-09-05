@@ -96,13 +96,18 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
    
 </p> 
-<p>
+<br/>
+<p align="left">
    
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
    
 </p> 
+<br/>
+<p align="left">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="pia007" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&theme=github_dark" alt="pia007" /></p>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pia007&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB)](https://git.io/streak-stats) -->
 
 
 
