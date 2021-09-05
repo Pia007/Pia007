@@ -92,11 +92,14 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pia007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&show_owner=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pia007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
 <br/>
 <br/>
    
 &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pia007&theme=black-ice&hide_border=true&currStreakNum=C3D1D9&ring=1F6FEB&background=0D1117&stroke=C3D1D9&fire=EB5936&sideNums=C3D1D9&currStreakLabel=1F6FEB&sideLabels=58A6FF&dates=C3D1D9)](https://git.io/streak-stats)
+   
+&emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;   &emsp;[![Pia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pia007)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 
