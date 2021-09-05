@@ -96,7 +96,7 @@ No Activity tracked this Week
 <br/>
 <br/>
  
-   
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact" alt="pia007" /></p>  
 <!-- <p align="center"> 
    
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pia007&theme=black-ice&hide_border=true&currStreakNum=C3D1D9&ring=1F6FEB&background=0D1117&stroke=C3D1D9&fire=EB5936&sideNums=C3D1D9&currStreakLabel=1F6FEB&sideLabels=58A6FF&dates=C3D1D9)](https://git.io/streak-stats)
