@@ -25,7 +25,6 @@
 
 - ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
@@ -103,7 +102,11 @@
 <p>
    
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
-</p>  
+</p> 
+
+<br/>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
+
    
 
 
