@@ -16,6 +16,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: <Pia007/Pia007>
           SHOW_TITLE: true
