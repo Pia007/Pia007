@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pia</h1>
 <h3 align="center">Thanks for taking a peak!</h3>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
 
@@ -97,12 +97,12 @@ No Activity tracked this Week
 <br/>
 <br/>
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact" alt="pia007" /></p>  
+<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact" alt="pia007" /></p>   -->
    
 <br/>
 <br/>   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en" alt="pia007" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en" alt="pia007" /></p>
+ -->
 <!-- <p align="center"> 
    
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pia007&theme=black-ice&hide_border=true&currStreakNum=C3D1D9&ring=1F6FEB&background=0D1117&stroke=C3D1D9&fire=EB5936&sideNums=C3D1D9&currStreakLabel=1F6FEB&sideLabels=58A6FF&dates=C3D1D9)](https://git.io/streak-stats)
