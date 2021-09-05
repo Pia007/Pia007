@@ -35,7 +35,8 @@
 <a href="https://linkedin.com/in/pia torain" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pia torain" height="30" width="40" /></a>
 </p>
-
+<br/>
+   
 <h3 align="left" margin-bottom="10px">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -72,6 +73,8 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 </p>
+   
+<br/>
 
 <!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact" alt="pia007"     />
@@ -97,7 +100,7 @@
    
 <p>
    
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
 </p>  
    
 
