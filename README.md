@@ -1,16 +1,10 @@
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Pia</h1>
 <h3 align="center">Thanks for taking a peak!</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pia007" alt="pia007" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/feenixrizn" target="blank"><img src="https://img.shields.io/twitter/follow/feenixrizn?logo=twitter&style=for-the-badge" alt="feenixrizn" /></a> </p> -->
-
-
+<!-- About Me -->
 <h3 align="left">Here is brief description:<h3>
 
 - 🔭 I’m currently working on a collaboration at [Reskill Americans](https://reskillamericans.org/training/).
@@ -27,7 +21,7 @@
 
 - ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
    
-
+<!-- Contacts -->
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
    [LinkedIn](https://linkedin.com/in/pia-torain-dev) or [Twitter](https://twitter.com/FeenixRizn).
@@ -39,7 +33,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pia torain" height="30" width="40" /></a>
 </p>
 <br/>
-   
+<!-- Skills -->
 <h3 align="left" margin-bottom="10px">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -90,6 +84,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&" alt="pia007" />
 </p> -->
 
+<!-- Stats -->
 <h3 align="left">Statistics:</h3>
 <p align="left">
    
@@ -106,8 +101,6 @@
 <p align="left">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="pia007" />
 </p>
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pia007&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB)](https://git.io/streak-stats) -->
 
 
 
