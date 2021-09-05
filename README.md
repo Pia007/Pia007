@@ -74,8 +74,7 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 </p>
-   
-<br/>
+  
 
 <!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact" alt="pia007"     />
@@ -94,15 +93,15 @@
    
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
    
-</p>
-<br/>
-   
+</p> 
 <p>
    
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
+   
 </p> 
 
 <br/>  
+   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
 
    
