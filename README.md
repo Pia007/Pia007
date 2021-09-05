@@ -88,30 +88,28 @@
 
 
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pia007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
+<p align="left">
+   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pia007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
+   
+</p>
 <br/>
 
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="pia007" /></p>  
+<p>
+   
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="pia007" />
+</p>  
    
 <br/>
   
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en" alt="pia007" />
+<!-- <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en" alt="pia007" />
 
 </p>
-
+ -->
  <br/>    
    
-   
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
 
 
 
