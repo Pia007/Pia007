@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pia</h1>
 <h3 align="center">Thanks for taking a peak!</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
+
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
@@ -100,10 +102,9 @@
    
 </p> 
 
-<br/>  
-<h3 align="left">   
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
-   </h3>
+
 
    
 
