@@ -101,8 +101,9 @@
 </p> 
 
 <br/>  
-   
+<h3 align="left">   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
+   </h3>
 
    
 
