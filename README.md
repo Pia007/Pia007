@@ -91,23 +91,25 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pia007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
 <br/>
-<br/>
+
  
-<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact" alt="pia007" /></p>   -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact" alt="pia007" /></p>  
    
 <br/>
-<br/>   
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en" alt="pia007" /></p>
- -->
-<!-- <p align="center"> 
+  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en" alt="pia007" /></p>
+
+ <br/>    
+   
+<p align="center"> 
    
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pia007&theme=black-ice&hide_border=true&currStreakNum=C3D1D9&ring=1F6FEB&background=0D1117&stroke=C3D1D9&fire=EB5936&sideNums=C3D1D9&currStreakLabel=1F6FEB&sideLabels=58A6FF&dates=C3D1D9)](https://git.io/streak-stats)
    
-</p>  -->
+</p> 
 
    
-<!-- [![Pia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pia007)](https://github.com/Pia007/github-readme-stats)
- -->
+[![Pia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pia007)](https://github.com/Pia007/github-readme-stats)
+
    
 <!--START_SECTION:waka-->
 ```text
