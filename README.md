@@ -92,7 +92,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pia007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pia007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&show_owner=false" />
 <br/>
 <br/>
    
