@@ -24,6 +24,8 @@
 - 😄 Pronouns: she/her
 
 - ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
+   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
