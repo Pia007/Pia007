@@ -89,6 +89,22 @@
 
 <!-- Stats -->
 <h3 align="left">Statistics:</h3>
+
+<p align="left">
+
+  <!--START_SECTION:waka-->
+```text
+Week: 31 August, 2021 - 06 September, 2021
+
+Markdown     2 hrs 1 min     ███████████████████▒░░░░░   77.01 % 
+HTML         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+CSS          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+```
+<!--END_SECTION:waka-->
+
+</p>
+<br/>
 <p align="left">
    
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
@@ -104,22 +120,7 @@
 <p align="left">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="pia007" />
 </p>
-
-<details align="left">
-
-  <!--START_SECTION:waka-->
-```text
-Week: 31 August, 2021 - 06 September, 2021
-
-Markdown     2 hrs 1 min     ███████████████████▒░░░░░   77.01 % 
-HTML         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-CSS          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-```
-<!--END_SECTION:waka-->
-
-
-</details>
+<br>
 
 
 
