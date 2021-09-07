@@ -106,7 +106,15 @@
 <details>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+Week: 31 August, 2021 - 06 September, 2021
+
+Markdown     2 hrs 1 min     ███████████████████▒░░░░░   77.01 % 
+HTML         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+CSS          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+```
+<!--END_SECTION:waka-->
 
 
 </details>
