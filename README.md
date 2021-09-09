@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20👋,%20I'm%20Pia!&fontColor=ffffff&fontSize=70&color=timeGradient&animation=twinkling&)
 <!-- <h1 align="center"></h1>
 <h3 align="center">Thanks for taking a peak!</h3> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> 
+</p>
 <p align="center">
 [![wakatime](https://wakatime.com/badge/github/Pia007/Pia007.svg)](https://wakatime.com/badge/github/Pia007/Pia007)
 </p>
