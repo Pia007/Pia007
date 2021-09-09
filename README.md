@@ -3,9 +3,9 @@
 <!-- <h1 align="center"></h1>
 <h3 align="center">Thanks for taking a peak!</h3> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> </p>
-
+<p align="center">
 [![Waka Readme](https://github.com/Pia007/Pia007/actions/workflows/mainnew.yml/badge.svg)](https://github.com/Pia007/Pia007/actions/workflows/mainnew.yml)
-
+</p>
 
 <!-- About Me -->
 <h3 align="left">Here is brief description:<h3>
@@ -118,7 +118,7 @@ JavaScript   5 mins          █░░░░░░░░░░░░░░░░
 </p> 
 <br/>
 <p align="left">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="pia007" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="pia007" />
 </p>
 <br>
 
