@@ -4,9 +4,9 @@
 <h3 align="center">Thanks for taking a peak!</h3> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> 
 </p>
-<p align="center">
+<!-- <p align="center">
 [![wakatime](https://wakatime.com/badge/github/Pia007/Pia007.svg)](https://wakatime.com/badge/github/Pia007/Pia007)
-</p>
+</p> -->
 
 <!-- About Me -->
 <h3 align="left">Here is brief description:<h3>
