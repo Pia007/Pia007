@@ -94,12 +94,13 @@
 
   <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2021 - 06 September, 2021
+Week: 02 September, 2021 - 08 September, 2021
 
-Markdown     2 hrs 1 min     ███████████████████▒░░░░░   77.01 % 
-HTML         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-CSS          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript   11 hrs 8 mins   █████████████████░░░░░░░░   68.36 % 
+Markdown     3 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+HTML         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -107,13 +108,13 @@ JavaScript   5 mins          █░░░░░░░░░░░░░░░░
 <br/>
 <p align="left">
    
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
    
 </p> 
 <br/>
 <p align="left">
    
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
    
 </p> 
 <br/>
