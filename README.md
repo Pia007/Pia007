@@ -95,12 +95,12 @@
 
   <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
-CSS          23 hrs 13 mins  ███████████████▓░░░░░░░░░   62.50 % 
-HTML         7 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.50 % 
-JavaScript   5 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Markdown     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+CSS          17 hrs 49 mins  ██████████████▓░░░░░░░░░░   58.82 % 
+HTML         6 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 % 
+JavaScript   5 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Markdown     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
