@@ -95,12 +95,12 @@
 
   <!--START_SECTION:waka-->
 ```text
-Week: 20 October, 2021 - 26 October, 2021
+Week: 21 October, 2021 - 27 October, 2021
 
-CSS          15 hrs 59 mins  ████████████▓░░░░░░░░░░░░   50.05 % 
-HTML         9 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.42 % 
-JavaScript   6 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-XML          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+CSS          15 hrs 1 min    ████████████░░░░░░░░░░░░░   48.25 % 
+HTML         9 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   31.35 % 
+JavaScript   6 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 
