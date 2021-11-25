@@ -95,12 +95,12 @@
 
   <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-CSS          21 hrs 31 mins  █████████████▒░░░░░░░░░░░   53.19 % 
-HTML         12 hrs 28 mins  ███████▓░░░░░░░░░░░░░░░░░   30.82 % 
-JavaScript   6 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+CSS          19 hrs 34 mins  ███████████▓░░░░░░░░░░░░░   46.74 % 
+HTML         14 hrs 9 mins   ████████▒░░░░░░░░░░░░░░░░   33.80 % 
+JavaScript   8 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 
