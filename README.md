@@ -1,97 +1,50 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20👋,%20I'm%20Pia!&fontColor=ffffff&fontSize=70&color=timeGradient&animation=twinkling&)
-<!-- <h1 align="center"></h1>
-<h3 align="center">Thanks for taking a peak!</h3> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> 
-</p>
-<!-- <p align="center">
-[![wakatime](https://wakatime.com/badge/github/Pia007/Pia007.svg)](https://wakatime.com/badge/github/Pia007/Pia007)
-</p> -->
 
-<!-- About Me -->
-<h3 align="left">Here is brief description:<h3>
+I’m a Pia Torain, a Frontend Web Developer and aspiring Fullstack Web Developer.
 
-- 🔭 I’m currently working on a collaboration at [Reskill Americans](https://reskillamericans.org/training/).
-
-<!-- - 🌱 I’m currently learning HTML5, CSS, JavaScript, ReactJS and  Node.js. -->
-
-- 👯 I would love to collaborate on anything that's exciting and offers a great learning experience.
-
-- 🤔 I’m looking for help with ReactJS Hooks & Components and open to any information that will assist in my development.
-
-- 💬 I have an interdisciplinary degree in Biochemistry & Molecular Biology and I have always had a interest in computer programming. 
-
-- 😄 Pronouns: she/her
-
-- ⚡ Fun fact: I was once a college dropout, but I dropped back in and graduated cum laude.
-   
 <!-- Contacts -->
-<h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
-   [LinkedIn](https://linkedin.com/in/pia-torain-dev) or [Twitter](https://twitter.com/FeenixRizn).
- -->
-<a href="https://twitter.com/feenixrizn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="feenixrizn" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/pia-torain-dev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pia torain" height="30" width="40" /></a>
-</p>
-<br/>
+:mailbox: Contact me!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Pia_Torain-0e76a8?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/pia-torain-dev/) [![Twitter Badge](https://img.shields.io/badge/-@FeenixRizn-1ca0f1?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/FeenixRizn)](https://twitter.com/FeenixRizn) [![Polywork Badge](https://img.shields.io/badge/-@FeenixFizn-e74c3c?style=for-the-badge&labelColor=black&logo=polywork&logoColor=e74c3c)](https://www.polywork.com/feenixrizn) [![Mail Badge](https://img.shields.io/badge/-piatorain-9349c1?style=for-the-badge&labelColor=black&logo=gmail&logoColor=9349c1)](mailto:piatorain@yahoo.com) [![Mail Badge](https://img.shields.io/badge/-@mindfully_pia-bc2a8d?style=for-the-badge&labelColor=black&logo=instagram&logoColor=bc2a8d)](https://instagram.com/mindfully_pia) 
+
+- 🔭 I’m currently building my portfolio website, seeking internship/employment, starting a blog and coding everyday.
+- 👯 I would love to collaborate on anything that's exciting and offers a great learning experience.
+- :computer: Javascript is my best friend.
+- 🤔 I’m looking for help with and am open to any information that will assist in my development.
+- 💬 I have an interdisciplinary degree in Biochemistry & Molecular Biology and I have always had a interest in computer programming. 
+- 😄 Pronouns: she/her, FeenixRizn, Pia or that's Pia.
+- ⚡ Fun fact: I love yoga and drawing with pastels & charcoal.
+   
+
+<!-- [![Polywork](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
+
+
 <!-- Skills -->
-<h3 align="left" margin-bottom="10px">Languages and Tools:</h3>
+### Languages and Tools
 
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="45"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45"                    height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"                  height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"                height="40"/>   
-  </a> 
-<!--   
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"                  height="40"/> 
-  </a>  -->
-  
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"                      height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
+ [![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34C26)](#) [![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![jQuery Badge](https://img.shields.io/badge/-jQuery-0868AC?style=for-the-badge&labelColor=black&logo=jQuery&logoColor=0868AC)](#) [![Bootsrtap Badge](https://img.shields.io/badge/-Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+
+### Highlights
+#### Open Source: 
+  [![Open Source ](https://img.shields.io/badge/-Social_Media_App_1-14223D?style=for-the-badge&labelColor)](#) [![Open Source](https://img.shields.io/badge/-Social_Media_App_2-5DB040?style=for-the-badge&labelColor)](#) [![Open Source](https://img.shields.io/badge/-Social_Media_App_3-EE9062?style=for-the-badge&labelColor)](#) 
+#### Passion Projects
+  [![Passion Project](https://img.shields.io/badge/-JavaScript_Algorithms-EB0E96?style=for-the-badge&labelColor)](https://pia007.github.io/Javascript-Algos/) [![Passion Project](https://img.shields.io/badge/-Jubilee-FF0000?style=for-the-badge&labelColor)](https://pia007.github.io/Jubilee/)
+
+#### Profile Visits
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> 
 </p>
-  
+<details>
+<summary>
+  A little bit more
+</summary>
 
-<!-- <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&show_icons=true&locale=en&layout=compact" alt="pia007"     />
-</p>
+<br >
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pia007&show_icons=true&locale=en" alt="pia007" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&" alt="pia007" />
-</p> -->
+As a disabled coder, building accessible websites is very important to me. This journey is just beginning and I am committed to the life long learning process and looking forward to ride!
 
 <!-- Stats -->
-<h3 align="left">Statistics:</h3>
-
-<p align="left">
+#### Statistics
 
   <!--START_SECTION:waka-->
 ```text
@@ -105,24 +58,14 @@ Other        14 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-</p>
-<br/>
-<p align="left">
-   
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
-   
-</p> 
-<br/>
-<p align="left">
-   
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pia007&&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="pia007" />
-   
-</p> 
-<br/>
-<p align="left">
+#### Github Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
+
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="pia007" />
 </p>
 <br>
+
 
 
 
