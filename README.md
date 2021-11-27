@@ -27,7 +27,7 @@ I’m a Pia Torain, a Frontend Web Developer and aspiring Fullstack Web Develope
 
 ### Highlights
 #### Open Source: 
-  [![Open Source ](https://img.shields.io/badge/-Social_Media_App_1-14223D?style=for-the-badge&labelColor)](#) [![Open Source](https://img.shields.io/badge/-Social_Media_App_2-5DB040?style=for-the-badge&labelColor)](#) [![Open Source](https://img.shields.io/badge/-Social_Media_App_3-EE9062?style=for-the-badge&labelColor)](#) 
+  [![Open Source ](https://img.shields.io/badge/-Social_Media_App_1-14223D?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-1) [![Open Source](https://img.shields.io/badge/-Social_Media_App_2-5DB040?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-2) [![Open Source](https://img.shields.io/badge/-Social_Media_App_3-EE9062?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-3) 
 #### Passion Projects
   [![Passion Project](https://img.shields.io/badge/-JavaScript_Algorithms-EB0E96?style=for-the-badge&labelColor)](https://pia007.github.io/Javascript-Algos/) [![Passion Project](https://img.shields.io/badge/-Jubilee-FF0000?style=for-the-badge&labelColor)](https://pia007.github.io/Jubilee/)
 
