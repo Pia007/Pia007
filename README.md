@@ -48,13 +48,12 @@ As a disabled coder, building accessible websites is very important to me. This 
 
   <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Week: 20 November, 2021 - 26 November, 2021
 
-JavaScript   11 hrs 8 mins   █████████████████░░░░░░░░   68.36 % 
-Markdown     3 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-HTML         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+HTML         14 hrs 52 mins  ██████████▓░░░░░░░░░░░░░░   42.39 % 
+CSS          14 hrs 51 mins  ██████████▓░░░░░░░░░░░░░░   42.31 % 
+JavaScript   5 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 
