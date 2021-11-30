@@ -28,7 +28,7 @@ I’m a Pia Torain, a Frontend Web Developer and aspiring Fullstack Web Develope
 #### Open Source: 
   [![Open Source ](https://img.shields.io/badge/-Social_Media_App_1-53B6E0?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-1) [![Open Source](https://img.shields.io/badge/-Social_Media_App_2-5DB040?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-2) [![Open Source](https://img.shields.io/badge/-Social_Media_App_3-EE9062?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-3) 
 #### Passion Projects
-  [![Passion Project](https://img.shields.io/badge/-JavaScript_Algorithms-8e06fd?style=for-the-badge&labelColor)](https://pia007.github.io/Javascript-Algos/) [![Passion Project](https://img.shields.io/badge/-Jubilee-FF0000?style=for-the-badge&labelColor)](https://pia007.github.io/Jubilee/)
+  [![Passion Project](https://img.shields.io/badge/-JavaScript_Algorithms-8e06fd?style=for-the-badge&labelColor)](https://js-algorithms.com/) [![Passion Project](https://img.shields.io/badge/-Jubilee-FF0000?style=for-the-badge&labelColor)](https://pia007.github.io/Jubilee/)
 
 #### Profile Visits
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> 
