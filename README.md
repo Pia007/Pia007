@@ -1,7 +1,7 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20👋,%20I'm%20Pia!&fontColor=ffffff&fontSize=70&color=timeGradient&animation=twinkling&)
 
-I’m a Pia Torain, a Frontend Web Developer and aspiring Fullstack Web Developer.
+I’m Pia Torain, a Frontend Web Developer, and an aspiring Fullstack Web Developer.
 
 <!-- Contacts -->
 :mailbox: Contact me!
