@@ -47,13 +47,13 @@ Building accessible, efficient and aesthetically pleasing websites is very impor
 
   <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
-JavaScript   13 hrs 8 mins   ███████████░░░░░░░░░░░░░░   43.67 % 
-HTML         10 hrs 58 mins  █████████░░░░░░░░░░░░░░░░   36.48 % 
-CSS          3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-JSON         2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-SCSS         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+HTML         15 hrs 9 mins   ███████████░░░░░░░░░░░░░░   44.63 % 
+JavaScript   12 hrs 2 mins   █████████░░░░░░░░░░░░░░░░   35.46 % 
+CSS          3 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+JSON         2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+SCSS         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 <!--END_SECTION:waka-->
 
