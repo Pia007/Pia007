@@ -47,9 +47,7 @@ Building accessible, efficient and aesthetically pleasing websites is very impor
 
   <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 48 hrs 34 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 JavaScript   44 hrs 50 mins  ███████████████████████░░   92.15 % 
 CSS          2 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
