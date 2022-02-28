@@ -46,15 +46,18 @@ Building accessible, efficient and aesthetically pleasing websites is very impor
 #### Statistics
 
   <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-JavaScript   32 hrs 45 mins  ██████████████████████░░░   88.61 % 
-CSS          3 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-HTML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-XML          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-JSON         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   29 hrs 33 mins  ██████████████████████▓░░   91.04 %
+CSS          2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+JSON         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
