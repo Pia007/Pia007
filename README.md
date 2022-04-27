@@ -22,7 +22,15 @@ I’m Pia Torain, a Frontend Web Developer, and an aspiring Fullstack Web Develo
 <!-- Skills -->
 ### Languages and Tools
 
- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) [![React Native Badge](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=FFFFFF)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Bootsrtap Badge](https://img.shields.io/badge/-Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![jQuery Badge](https://img.shields.io/badge/-jQuery-0868AC?style=for-the-badge&labelColor=black&logo=jQuery&logoColor=0868AC)](#) [![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34C26)](#) [![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#)
+ [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) [![React Native Badge](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=FFFFFF)](#)  [![Bootsrtap Badge](https://img.shields.io/badge/-Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) <br/>[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![jQuery Badge](https://img.shields.io/badge/-jQuery-0868AC?style=for-the-badge&labelColor=black&logo=jQuery&logoColor=0868AC)](#) [![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34C26)](#) [![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#)
+  <br/>
+ 
+ [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+ [![MongoDB](https://img.shields.io/badge/-MongoDB-4DB333D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB333D)](#)
+ [![Express](https://img.shields.io/badge/-Express-FFFFFF?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)](#)
+ <!-- [![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&labelColor=black&logo=mongoose&logoColor=880000)](#) -->
+ 
+ 
 
 ### Highlights
 #### Open Source: 
