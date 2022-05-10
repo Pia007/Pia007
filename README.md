@@ -1,14 +1,16 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20👋,%20I'm%20Pia!&fontColor=ffffff&fontSize=70&color=timeGradient&animation=twinkling&)
 
-I’m Pia Torain, a Frontend Web Developer, and an aspiring Fullstack Web Developer.
+I’m Pia Torain, I am a Full Stack Web and Mobile Developer that focuses on the Frontend.  
+
+Take a look at my [Portfolio Website](https://www.piatorain.com)
 
 <!-- Contacts -->
 :mailbox: Contact me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pia_Torain-0e76a8?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/pia-torain-dev/) [![Twitter Badge](https://img.shields.io/badge/-@FeenixRizn-1ca0f1?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/FeenixRizn)](https://twitter.com/FeenixRizn) [![Polywork Badge](https://img.shields.io/badge/-@FeenixRizn-e74c3c?style=for-the-badge&labelColor=black&logo=polywork&logoColor=e74c3c)](https://www.polywork.com/feenixrizn) [![Mail Badge](https://img.shields.io/badge/-Pia_Torain-9349c1?style=for-the-badge&labelColor=black&logo=gmail&logoColor=9349c1)](mailto:piatorain@yahoo.com) [![Mail Badge](https://img.shields.io/badge/-@mindfully_pia-bc2a8d?style=for-the-badge&labelColor=black&logo=instagram&logoColor=bc2a8d)](https://instagram.com/mindfully_pia) 
 
-- 🔭 I’m currently building my portfolio website, seeking an internship/employment and working towards becoming a Fullstack Web Developer.
+- 🔭 I completed my [Portfolio Website](https://www.piatorain.com) and I am seeking  an apprenticeship, internship and employment as a Junior Software Developer.
 - 👯 I would love to collaborate on anything that's exciting and offers a great learning experience.
 - 🤔 I’m looking for help with and am open to any information that will assist in my development.
 - 💬 I have an interdisciplinary degree in Biochemistry & Molecular Biology and I have always had a interest in computer programming. 
