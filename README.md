@@ -59,12 +59,12 @@ Building accessible, efficient and aesthetically pleasing websites is very impor
   <!--START_SECTION:waka-->
 
 ```text
-From: 09 July 2022 - To: 16 July 2022
+From: 10 July 2022 - To: 17 July 2022
 
-JavaScript   15 hrs 54 mins  █████████████▒░░░░░░░░░░░   52.98 %
-Markdown     9 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.61 %
-Python       2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Other        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+JavaScript   14 hrs 20 mins  ████████████▓░░░░░░░░░░░░   50.41 %
+Markdown     9 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   32.30 %
+Python       2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+Other        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
