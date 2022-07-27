@@ -10,7 +10,7 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pia_Torain-0e76a8?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/pia-torain-dev/) [![Polywork Badge](https://img.shields.io/badge/-@FeenixRizn-e74c3c?style=for-the-badge&labelColor=black&logo=polywork&logoColor=e74c3c)](https://www.polywork.com/feenixrizn) [![Mail Badge](https://img.shields.io/badge/-Pia_Torain-9349c1?style=for-the-badge&labelColor=black&logo=gmail&logoColor=9349c1)](mailto:piatorain@gmail.com) 
 
-- 🔭 Currently, learning Java.
+- 🔭 Currently learning Java.
 - 👯 I would love to collaborate on anything that's exciting and offers a great learning experience.
 - 🤔 I’m looking for help with and am open to any information that will assist in my development.
 - 💬 I have an interdisciplinary degree in Biochemistry & Molecular Biology and I have always had a interest in computer programming. 
@@ -40,25 +40,21 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
 
 ### Highlights
 #### Open Source: 
-  [![Open Source ](https://img.shields.io/badge/-Social_Media_App_1-53B6E0?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-1) [![Open Source](https://img.shields.io/badge/-Social_Media_App_2-5DB040?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-2) [![Open Source](https://img.shields.io/badge/-Social_Media_App_3-EE9062?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-3) 
-#### Projects
+  [![Open Source ](https://img.shields.io/badge/-Cdev-07085D?style=for-the-badge&labelColor)](https://github.com/cdev-framework/cdev-website) [![Open Source ](https://img.shields.io/badge/-Social_Media_App_1-53B6E0?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-1) [![Open Source](https://img.shields.io/badge/-Social_Media_App_3-EE9062?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-3) 
+  [![Open Source](https://img.shields.io/badge/-Social_Media_App_2-5DB040?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-2)
+#### Solo Projects
   [![Project](https://img.shields.io/badge/-Host_a_Healthcare_Hero-19b758?style=for-the-badge&labelColor)](https://hostahealtcarehero.netlify.app/)
   [![Project](https://img.shields.io/badge/-JavaScript_Algorithms-8e06fd?style=for-the-badge&labelColor)](https://js-algorithms.com/) [![ Project](https://img.shields.io/badge/-Jubilee-FF0000?style=for-the-badge&labelColor)](https://pia007.github.io/Jubilee/)
 
-#### Profile Visits
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> 
-</p>
-<details>
-<summary>
-  A little bit more
-</summary>
 
-<br >
+
+<br />
 
 Building accessible, efficient and aesthetically pleasing websites is very important to me. I have always been an artist and coding allows me to add another medium to my palette. This journey is just beginning and I am committed to the learning process and looking forward to ride!
+<br />
 
 <!-- Stats -->
-#### Statistics
+## Weekly Statistics
 
   <!--START_SECTION:waka-->
 
@@ -75,15 +71,21 @@ JSON         35 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### Github Stats
+## Github Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=0e75b6&style=flat" alt="pia007" /> 
+</p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="pia007" />
+<br/>
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&langs_count=8)](https://github.com/pia007/github-readme-stats) -->
 </p>
-<br>
+
+
 
 
 
