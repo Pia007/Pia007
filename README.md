@@ -10,7 +10,7 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pia_Torain-0e76a8?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/pia-torain-dev/) [![Polywork Badge](https://img.shields.io/badge/-@FeenixRizn-e74c3c?style=for-the-badge&labelColor=black&logo=polywork&logoColor=e74c3c)](https://www.polywork.com/feenixrizn) [![Mail Badge](https://img.shields.io/badge/-Pia_Torain-9349c1?style=for-the-badge&labelColor=black&logo=gmail&logoColor=9349c1)](mailto:piatorain@gmail.com) 
 
-- 🔭 I completed my [Portfolio Website](https://www.piatorain.com) and I am seeking  an apprenticeship, internship and employment as a Junior Software Developer.
+- 🔭 Currently, learning Java.
 - 👯 I would love to collaborate on anything that's exciting and offers a great learning experience.
 - 🤔 I’m looking for help with and am open to any information that will assist in my development.
 - 💬 I have an interdisciplinary degree in Biochemistry & Molecular Biology and I have always had a interest in computer programming. 
@@ -24,13 +24,17 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
 <!-- Skills -->
 ### Languages and Tools
 
- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) [![React Native Badge](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=FFFFFF)](#)  [![Bootsrtap Badge](https://img.shields.io/badge/-Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) <br/>[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![jQuery Badge](https://img.shields.io/badge/-jQuery-0868AC?style=for-the-badge&labelColor=black&logo=jQuery&logoColor=0868AC)](#) [![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34C26)](#) [![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#)
+ [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) [![React Native Badge](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=FFFFFF)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) <br/>[![Bootsrtap Badge](https://img.shields.io/badge/-Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) [![jQuery Badge](https://img.shields.io/badge/-jQuery-0868AC?style=for-the-badge&labelColor=black&logo=jQuery&logoColor=0868AC)](#) [![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34C26)](#) [![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#)
+ [![Hugo](https://img.shields.io/badge/-Hugo-FFFFFF?style=for-the-badge&labelColor=black&logo=hugo&logoColor=FFFFFF)](#)
   <br/>
  
  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
- [![MongoDB](https://img.shields.io/badge/-MongoDB-4DB333D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB333D)](#)
  [![Express](https://img.shields.io/badge/-Express-FFFFFF?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)](#)
- <!-- [![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&labelColor=black&logo=mongoose&logoColor=880000)](#) -->
+ [![MongoDB](https://img.shields.io/badge/-MongoDB-4DB333D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB333D)](#)
+ 
+ 
+ [![Python](https://img.shields.io/badge/-python-306998?style=for-the-badge&labelColor=black&logo=python&logoColor=)](#)
+ [![Ubuntu](https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)](#)
  
  
 
