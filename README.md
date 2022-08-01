@@ -77,12 +77,14 @@ JSON         35 mins         ▓░░░░░░░░░░░░░░░░
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pia007&&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="pia007" />
+<br/>
+
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pia007&&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="pia007" />
 <br/>
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&langs_count=8)](https://github.com/pia007/github-readme-stats) -->
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="pia007" />
 </p>
 
 
