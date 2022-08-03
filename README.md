@@ -59,8 +59,6 @@ Building accessible, efficient and aesthetically pleasing websites is very impor
   <!--START_SECTION:waka-->
 
 ```text
-From: 26 July 2022 - To: 02 August 2022
-
 JavaScript   24 hrs 58 mins  ███████████████████████▒░   93.87 %
 Markdown     1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
