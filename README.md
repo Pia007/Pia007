@@ -42,7 +42,8 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
 #### Open Source: 
   [![Open Source ](https://img.shields.io/badge/-Cdev-07085D?style=for-the-badge&labelColor)](https://github.com/cdev-framework/cdev-website) [![Open Source ](https://img.shields.io/badge/-Social_Media_App_1-53B6E0?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-1) [![Open Source](https://img.shields.io/badge/-Social_Media_App_3-EE9062?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-3) 
   [![Open Source](https://img.shields.io/badge/-Social_Media_App_2-5DB040?style=for-the-badge&labelColor)](https://github.com/reskillamericans/SMA-Team-2)
-#### Solo Projects
+#### Projects
+  [![Project](https://img.shields.io/badge/-Viva_Las_Vegas-53B6E0?style=for-the-badge&labelColor)](https://viva-las-vegas.herokuapp.com/)
   [![Project](https://img.shields.io/badge/-Host_a_Healthcare_Hero-19b758?style=for-the-badge&labelColor)](https://hostahealtcarehero.netlify.app/)
   [![Project](https://img.shields.io/badge/-JavaScript_Algorithms-8e06fd?style=for-the-badge&labelColor)](https://js-algorithms.com/) [![ Project](https://img.shields.io/badge/-Jubilee-FF0000?style=for-the-badge&labelColor)](https://pia007.github.io/Jubilee/)
 
@@ -87,11 +88,6 @@ Other        13 mins         ▒░░░░░░░░░░░░░░░░
 </p>
 
 
-
-
-
-
-   
 
 
 
