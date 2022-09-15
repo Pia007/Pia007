@@ -30,12 +30,14 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
  
  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
  [![Express](https://img.shields.io/badge/-Express-FFFFFF?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)](#)
- [![MongoDB](https://img.shields.io/badge/-MongoDB-4DB333D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB333D)](#)
+ [![MongoDB](https://img.shields.io/badge/-MongoDB-4DB333D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB333D)](#)[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4DB333D)](#)
  
  
  [![Python](https://img.shields.io/badge/-python-306998?style=for-the-badge&labelColor=black&logo=python&logoColor=)](#)
  [![Ubuntu](https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)](#)
  
+ [![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)](#)
+ [![Selenium](https://img.shields.io/badge/-selenium-403BO2A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=403BO2A)](#)
  
 
 ### Highlights
