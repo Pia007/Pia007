@@ -1,7 +1,7 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20👋,%20I'm%20Pia!&fontColor=ffffff&fontSize=70&color=timeGradient&animation=twinkling&)
 
-I’m Pia Torain, I am a Full Stack Web and Mobile Developer that focuses on the Frontend.  
+I am a Software Engineer.  
 
 Take a look at my [Portfolio Website](https://www.piatorain.com)
 
@@ -10,11 +10,10 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pia_Torain-0e76a8?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/pia-torain-dev/) [![Polywork Badge](https://img.shields.io/badge/-@FeenixRizn-e74c3c?style=for-the-badge&labelColor=black&logo=polywork&logoColor=e74c3c)](https://www.polywork.com/feenixrizn) [![Mail Badge](https://img.shields.io/badge/-Pia_Torain-9349c1?style=for-the-badge&labelColor=black&logo=gmail&logoColor=9349c1)](mailto:piatorain@gmail.com) 
 
-- 🔭 Currently learning Java.
+- 🔭 Currently learning Java and Spring Boot.
 - 👯 I would love to collaborate on anything that's exciting and offers a great learning experience.
 - 🤔 I’m looking for help with and am open to any information that will assist in my development.
 - 💬 I have an interdisciplinary degree in Biochemistry & Molecular Biology and I have always had a interest in computer programming. 
-- :computer: Javascript is my best friend 😄. 
 - ⚡ Fun fact: I love yoga and drawing with pastels & charcoal.
    
 
