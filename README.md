@@ -61,12 +61,12 @@ Building accessible, efficient and aesthetically pleasing websites is very impor
   <!--START_SECTION:waka-->
 
 ```text
-JavaScript   15 hrs 19 mins  ██████████████░░░░░░░░░░░   55.90 %
-HTML         3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
-CSS          3 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-Markdown     2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-JSON         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Bash         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+JavaScript   9 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.28 %
+Java         4 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   24.54 %
+Markdown     2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+JSON         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+CSS          1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+HTML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
