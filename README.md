@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](./github-header-image%20.png)
+![header](header.png)
 
 
 I am a Software Engineer.  
