@@ -1,5 +1,6 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20👋,%20I'm%20Pia!&fontColor=ffffff&fontSize=70&color=timeGradient&animation=twinkling&)
+![header](./github-header-image%20.png)
+
 
 I am a Software Engineer.  
 
