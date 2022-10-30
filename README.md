@@ -62,12 +62,12 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
   <!--START_SECTION:waka-->
 
 ```text
-Java         34 hrs 8 mins   ███████████████░░░░░░░░░░   59.91 %
-JavaScript   16 hrs 10 mins  ███████░░░░░░░░░░░░░░░░░░   28.38 %
-Properties   3 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-XML          1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-JSON         1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-CSS          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Java         25 hrs 49 mins  ███████████░░░░░░░░░░░░░░   44.48 %
+JavaScript   24 hrs 29 mins  ██████████▓░░░░░░░░░░░░░░   42.18 %
+Properties   2 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+JSON         1 hr 55 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+XML          1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+CSS          58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
