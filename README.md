@@ -68,11 +68,12 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
   <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 10 mins   ███████████████░░░░░░░░░░   60.55 %
-JavaScript   3 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.48 %
-CSS          32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+TypeScript   6 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   47.14 %
+JavaScript   5 hrs 31 mins   ██████████▓░░░░░░░░░░░░░░   42.10 %
+CSS          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Text         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
