@@ -68,7 +68,8 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   6 mins          ████████████████▒░░░░░░░░   65.18 %
+Python     3 mins          ████████▓░░░░░░░░░░░░░░░░   34.82 %
 ```
 
 <!--END_SECTION:waka-->
