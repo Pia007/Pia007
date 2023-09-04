@@ -81,9 +81,9 @@ Python     3 mins          ████████▓░░░░░░░░�
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pia007?cardType=github&theme=dark&Border=51ECB5&Text=51ECB5&Icon=51ECB5&Title=51ECB5&Ring=51ECB5)](#)
 
-<p align="left">
+<!-- <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&&theme=dark&title_color=51ECB5&text_color=51ECB5&border_color=51ecb5&langs_count=8&layout=compact" alt="pia007" />
-</p>
+</p> -->
 
 
 
