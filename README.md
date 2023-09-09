@@ -2,17 +2,18 @@
 ![header](github-header.png)
 
 
-I am a Software Engineer.  
+Hi! I am Pia. Thanks for taking a look at my profile.  
 
 Take a look at my [Portfolio Website](https://www.piatorain.com)
 
 <!-- Contacts -->
 :mailbox: Contact me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pia_Torain-000000?style=plastic&labelColor=black&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/pia-torain-dev/) [![Polywork Badge](https://img.shields.io/badge/-@FeenixRizn-000000?style=plastic&labelColor=black&logo=polywork&logoColor=e74c3c)](https://www.polywork.com/feenixrizn) [![Mail Badge](https://img.shields.io/badge/-Pia_Torain-000000?style=plastic&labelColor=black&logo=gmail&logoColor=9349c1)](mailto:piatorain@gmail.com) 
+ ![Linkedin Badge](https://img.shields.io/badge/-Pia_Torain-000000?style=plastic&labelColor=black&logo=linkedin&logoColor=0e76a8)
+ <!-- (https://www.linkedin.com/in/pia-torain-dev/) [![Polywork Badge](https://img.shields.io/badge/-@FeenixRizn-000000?style=plastic&labelColor=black&logo=polywork&logoColor=e74c3c)](https://www.polywork.com/feenixrizn) [![Mail Badge](https://img.shields.io/badge/-Pia_Torain-000000?style=plastic&labelColor=black&logo=gmail&logoColor=9349c1)](mailto:piatorain@gmail.com)  -->
 
-- 🔭 Currently learning new skills and focusing on the impact that technology has on society.
-- 👯 I would love to collaborate on anything that's exciting and offers a great learning experience.
+- 🔭 Currently learning new skills and focusing on the impact that AI/ML has on society.
+- 👯 I would love to collaborate on anything that aligns with my focus, is exciting and offers a great learning experience.
 - 📚 I am always learning new skills, new technology and solving problems.
 - 🏆 Goal: Build solutions that are safe and equitable for all.   
 - ⚡ Words I Live By: Just because it CAN be done, doesn't mean it SHOULD be done.
