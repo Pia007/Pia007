@@ -69,7 +69,7 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!-- Stats -->
 ## Weekly Statistics
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```txt
 Python            4 hrs 25 mins   █████████████████████▓░░░   86.33 %
