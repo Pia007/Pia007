@@ -4,7 +4,7 @@
 
 Hi! I am Pia. Thanks for taking a look at my profile.  
 
-Take a look at my [Portfolio Website](https://www.piatorain.com)
+<!-- Take a look at my [Portfolio Website](https://www.piatorain.com) -->
 
 <!-- Contacts -->
 :mailbox: Contact me!
@@ -52,9 +52,12 @@ Take a look at my [Portfolio Website](https://www.piatorain.com)
  
 
 ### Highlights
-#### Open Source: 
+
+#### Portfolio Website
+[![Portfolio Website](https://img.shields.io/badge/-Pia_Torain-00ccff?style=plastic&labelColor)](https://piatorain.com/)
+<!-- #### Open Source
 [![Open Source ](https://img.shields.io/badge/-Cdev-00ccff?style=plastic&labelColor)](https://github.com/cdev-framework/cdev-website) [![Open Source ](https://img.shields.io/badge/-Social_Media_App_1-00ccff?style=plastic&labelColor)](https://github.com/reskillamericans/SMA-Team-1) [![Open Source](https://img.shields.io/badge/-Social_Media_App_3-00ccff?style=plastic&labelColor)](https://github.com/reskillamericans/SMA-Team-3) 
-[![Open Source](https://img.shields.io/badge/-Social_Media_App_2-00ccff?style=plastic&labelColor)](https://github.com/reskillamericans/SMA-Team-2)
+[![Open Source](https://img.shields.io/badge/-Social_Media_App_2-00ccff?style=plastic&labelColor)](https://github.com/reskillamericans/SMA-Team-2) -->
 #### Projects
 [![Project](https://img.shields.io/badge/-Colour_Mi`_Chic-00ccff?style=plastic&labelColor)](https://colourmichic-cmc.com/)
 [![Project](https://img.shields.io/badge/-medView-00ccff?style=plastic&labelColor)](https://github.com/Pia007/medView/)
