@@ -124,6 +124,12 @@ Bash         1 min           ░░░░░░░░░░░░░░░░░
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pia007&&theme=dark&title_color=ffffff&text_color=ffffff&&hide=Auto_detected,Go,Git,yaml,toml,idea_module,java properties,ini,class,gitignore_file,git_config,http request&&Layout=compact&&border_color=1E90ff&&custom_title=Wakatime (Last Year)" alt="pia007" />
 
 </p>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pia007&&theme=dark&title_color=ffffff&text_color=ffffff&&Layout=compact&&border_color=1E90ff&&custom_title=Wakatime (Last Year)" alt="pia007" />
+
+
+
+</p>
 
 
 
