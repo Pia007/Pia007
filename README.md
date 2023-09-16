@@ -91,7 +91,7 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 </p>
 
 #### Weekly
-
+<div style="border: 1px solid #00ccff; background-color: black; padding: 3px">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -101,35 +101,15 @@ Markdown     1 hr 31 mins    ████▒░░░░░░░░░░░░
 INI          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
-
+</div>
+<br/>
 <!--END_SECTION:waka-->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&labelColor=00ccff&color=00ccff&style=for-the-badge" alt="pia007" /> 
-</p> -->
-
-
-
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pia007&label=Profile%20views&labelColor=00ccff&color=00ccff&style=for-the-badge&&theme=dark" alt="pia007" /> 
-</p>
-
-<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pia007?cardType=github&theme=dark&Border=00ccff&Text=00ccff&Icon=00ccff&Title=00ccff&Ring=00ccff)](#) -->
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&&lang_count=10&&theme=dark&title_color=00ccff&text_color=00ccff&border_color=00ccff&langs_count=3" alt="pia007" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&&lang_count=10&&title_color=00ccff&text_color=00ccff&border_color=00ccff&bg_color=000000&langs_count=3" alt="pia007" />
 </p> 
 
-<!-- Add a space here -->
 
-
-<!-- <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pia007&&theme=dark&title_color=ffffff&text_color=ffffff&&hide=Auto_detected,Go,Git,yaml,toml,idea_module,java properties,ini,class,gitignore_file,git_config,http request&&Layout=compact&&border_color=1E90ff&&custom_title=Wakatime (Last Year)" alt="pia007" />
-
-</p>
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pia007&&theme=dark&title_color=ffffff&text_color=ffffff&&Layout=compact&&border_color=1E90ff&&custom_title=Wakatime (Last Year)" alt="pia007" /> -->
-
-
-
-</p>
 
 
 
