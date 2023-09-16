@@ -91,7 +91,7 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 </p>
 
 #### Weekly
-<div style="border: 1px solid #00ccff; background-color: black; padding: 3px">
+<div style="border: 1px solid #00ccff; background-color: black; padding: 10px 0px 0px 0px">
 <!--START_SECTION:waka-->
 
 ```txt
