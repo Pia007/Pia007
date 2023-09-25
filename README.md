@@ -95,11 +95,8 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Text         1 hr 44 mins    ███████████▒░░░░░░░░░░░░░   45.55 %
-Python       1 hr 27 mins    █████████▓░░░░░░░░░░░░░░░   38.42 %
-HTML         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Assembly     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Java         1 min           █████████████████████████   99.89 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
