@@ -95,7 +95,9 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Text   1 hr 36 mins    ██████████████████████░░░   87.57 %
+Io     9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+XML    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->
