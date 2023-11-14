@@ -95,9 +95,10 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Text   1 hr 36 mins    ██████████████████████░░░   87.57 %
-Io     9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-XML    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Text    4 hrs 25 mins   ███████████████████████▓░   94.22 %
+Other   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+SQL     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+XML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
