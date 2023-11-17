@@ -95,11 +95,11 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Text         7 hrs 25 mins   ███████████████████▓░░░░░   79.00 %
-SQL          1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Text         9 hrs 21 mins   ████████████████████▓░░░░   82.59 %
+SQL          1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
