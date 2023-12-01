@@ -95,11 +95,11 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       15 hrs 19 mins  ██████████████▒░░░░░░░░░░   57.15 %
-Text         8 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   31.57 %
-JSON         2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-Other        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-INI          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python       14 hrs 38 mins  ██████████████░░░░░░░░░░░   55.41 %
+Text         7 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.25 %
+JSON         2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Markdown     1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Other        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
