@@ -28,7 +28,7 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 [![Srping Boot Badge](https://img.shields.io/badge/-Spring%20Boot-000000?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)](#) [![Maven Badge](https://img.shields.io/badge/-Maven-000000?style=for-the-badge&labelColor=black&logo=apache-maven&logoColor=812878)](#)
 
 <!-- databases -->
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB333D)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4DB333D)](#) 
+[![DJANGO Badge](https://img.shields.io/badge/-DJANGO-000000?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#) [![FLASK Badge](https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB333D)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4DB333D)](#) 
 [![SQL Badge](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&labelColor=black&logo=&logoColor=4DB333D)](#) 
 
 <!-- testing -->
@@ -37,7 +37,7 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 [![JUnit5 Badge](https://img.shields.io/badge/-JUnit5-000000?style=for-the-badge&labelColor=black&logo=junit5&logoColor=0057B7)](#) 
 
 <!-- frontend  and mobile-->
-[![Next JS Badge](https://img.shields.io/badge/-Next_JS-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#) [![React Badge](https://img.shields.io/badge/-React-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![React Native Badge](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=FFFFFF)](#) 
+[![Next JS Badge](https://img.shields.io/badge/-Next_JS-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#) [![React Badge](https://img.shields.io/badge/-React-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![React Native Badge](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=FFFFFF)](#) [![SWIFT Badge](https://img.shields.io/badge/-SWIFT-000000?style=for-the-badge&labelColor=black&logo=swift&logoColor=white)](#)
 
 <!-- frontend extra -->
 [![Hugo Badge](https://img.shields.io/badge/-hugo-000000?style=for-the-badge&labelColor=black&logo=Hugo)](#)
@@ -60,11 +60,11 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 
 <!-- hosting -->
 [![Heroku Badge](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&labelColor=000000&logo=heroku&logoColor=8e06fd)](#)
-[![Netlify Badge](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](#) [![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=FF9900)](#)
+[![Netlify Badge](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](#) [![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=FF9900)](#) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000000?style=for-the-badge&labelColor=black&logo=googlecloud&logoColor=234285F4) 
 
 <!-- ides -->
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&labelColor=000000&logo=visual-studio-code&logoColor=007acc)](#)
-[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ%20Idea-000000?style=for-the-badge&logo=intelliJ-idea&logoColor=red)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ%20Idea-000000?style=for-the-badge&logo=intelliJ-idea&logoColor=red)](#) [![PYCHARM Badge](https://img.shields.io/badge/-PYCHARM-000000?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=green)](#) [![XCODE Badge](https://img.shields.io/badge/-XCODE-000000?style=for-the-badge&labelColor=black&logo=xcode&logoColor=007ACC)](#) 
 
 
  
@@ -75,6 +75,7 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 [![Portfolio Website](https://img.shields.io/badge/-Pia_Torain-blue?style=for-the-badge&labelColor)](https://piatorain.com/)
 
 ## Projects
+[![Project](https://img.shields.io/badge/-Car_Dealership-blue?style=for-the-badge&labelColor)](https://car-app-wjuvn76ckq-uc.a.run.app/)
 [![Project](https://img.shields.io/badge/-Colour_Mi`_Chic-blue?style=for-the-badge&labelColor)](https://colourmichic-cmc.com/)
 [![Project](https://img.shields.io/badge/-medView-blue?style=for-the-badge&labelColor)](https://github.com/Pia007/medView/)
 [![Project](https://img.shields.io/badge/-Viva_Las_Vegas-blue?style=for-the-badge&labelColor)](https://viva-las-vegas.herokuapp.com/)
@@ -106,6 +107,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&&lang_count=10&&title_color=00ccff&text_color=00ccff&border_color=00ccff&bg_color=000000&langs_count=3" alt="pia007" />
 </p> 
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&layout=compact) -->
 
 
 
