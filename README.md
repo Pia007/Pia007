@@ -96,9 +96,9 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   50 mins         ███████████████▓░░░░░░░░░   63.24 %
-Text       29 mins         █████████░░░░░░░░░░░░░░░░   36.58 %
-Swift      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Swift      1 hr 3 mins     █████████████▓░░░░░░░░░░░   55.26 %
+Markdown   50 mins         ███████████░░░░░░░░░░░░░░   44.59 %
+Cocoa      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
