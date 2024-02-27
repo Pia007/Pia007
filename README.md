@@ -96,11 +96,11 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        2 hrs 54 mins   ██████████████████▓░░░░░░   75.11 %
-Markdown     52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Swift        2 hrs 54 mins   ███████████████████████░░   92.06 %
+Markdown     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
