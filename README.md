@@ -96,7 +96,8 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Swift   3 mins          █████████████████████████   100.00 %
+Swift   4 mins          ████████████████░░░░░░░░░   64.59 %
+Other   2 mins          █████████░░░░░░░░░░░░░░░░   35.41 %
 ```
 
 <!--END_SECTION:waka-->
