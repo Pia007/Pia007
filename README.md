@@ -25,7 +25,7 @@ Hi! I am Pia. Thanks for taking a look at my profile.
   
 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)](#) [![Spring Badge](https://img.shields.io/badge/-Spring-000000?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)
-[![Srping Boot Badge](https://img.shields.io/badge/-Spring%20Boot-000000?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)](#) [![Maven Badge](https://img.shields.io/badge/-Maven-000000?style=for-the-badge&labelColor=black&logo=apache-maven&logoColor=812878)](#)
+[![Srping Boot Badge](https://img.shields.io/badge/-Spring%20Boot-000000?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)](#) [![Maven Badge](https://img.shields.io/badge/-Maven-000000?style=for-the-badge&labelColor=black&logo=apache-maven&logoColor=812878)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&labelColor=black&logo=docker&logoColor=00ccff)](#)
 
 <!-- databases -->
 [![DJANGO Badge](https://img.shields.io/badge/-DJANGO-000000?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#) [![FLASK Badge](https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB333D)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4DB333D)](#) 
@@ -108,7 +108,12 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&&lang_count=10&&title_color=00ccff&text_color=00ccff&border_color=00ccff&bg_color=000000&langs_count=3" alt="pia007" />
 </p> 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&layout=compact)
+
+![](https://raw.githubusercontent.com/Pia007/Pia007/main/profile-summary-card-output/algolia/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/Pia007/Pia007/main/profile-summary-card-output/cobalt2/3-stats.svg) -->
+
 
 
 
