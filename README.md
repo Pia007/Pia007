@@ -84,11 +84,7 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 49 mins   █████████████████▒░░░░░░░   68.75 %
-CSS          55 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-Markdown     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
