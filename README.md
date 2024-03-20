@@ -84,7 +84,9 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Cocoa   41 mins         ███████████▒░░░░░░░░░░░░░   45.03 %
+Swift   40 mins         ███████████░░░░░░░░░░░░░░   44.02 %
+Other   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
 ```
 
 <!--END_SECTION:waka-->
