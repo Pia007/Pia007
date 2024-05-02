@@ -84,8 +84,8 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-C#    28 mins         ████████████████████████▓   98.87 %
-XML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+C#    19 mins         ████████████████████████▓   98.38 %
+XML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
