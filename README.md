@@ -84,11 +84,11 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        1 hr 48 mins    ███████████▓░░░░░░░░░░░░░   47.20 %
-Java              51 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
-JSON              43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
-XML               13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Java Properties   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+JavaScript        1 hr 48 mins    ███████████████▒░░░░░░░░░   61.79 %
+JSON              30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+Java              28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Markdown          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Java Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
