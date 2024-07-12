@@ -84,11 +84,11 @@ Hi! I am Pia. Thanks for taking a look at my profile.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   8 hrs 23 mins   ██████████████████░░░░░░░   72.02 %
-HTML         1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Python       37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-CSS          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+JavaScript   9 hrs 43 mins   ████████████████░░░░░░░░░   64.57 %
+HTML         3 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+CSS          58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Python       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
