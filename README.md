@@ -2,7 +2,7 @@
 ![header](github-header.png)
 
 
-Hi! I am Pia. Thanks for taking a look at my profile. 
+Hi! I am Pia. Thanks for taking a look at my profile and taking a look at my repositories. 
 
 <!-- Contacts -->
 :mailbox: Contact me!
