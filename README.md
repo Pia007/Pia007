@@ -79,25 +79,25 @@ Hi! I am Pia. Thanks for taking a look at my profile and taking a look at my rep
 
 </p>
 
-#### Weekly
-<div style="border: 1px solid #00ccff; background-color: black; padding: 10px 0px 0px 0px">
+<!-- #### Weekly -->
+<!-- <div style="border: 1px solid #00ccff; background-color: black; padding: 10px 0px 0px 0px"> -->
 <!--START_SECTION:waka-->
-
+<!-- 
 ```txt
 No activity tracked
-```
+``` -->
 
 <!--END_SECTION:waka-->
 
-<p align="left">
+<!-- <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&&lang_count=10&&title_color=00ccff&text_color=00ccff&border_color=00ccff&bg_color=000000&langs_count=3" alt="pia007" />
-</p> 
+</p>  -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&layout=compact)
 
-![](https://raw.githubusercontent.com/Pia007/Pia007/main/profile-summary-card-output/algolia/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Pia007/Pia007/main/profile-summary-card-output/algolia/0-profile-details.svg) -->
 
-![](https://raw.githubusercontent.com/Pia007/Pia007/main/profile-summary-card-output/cobalt2/3-stats.svg) -->
+<!-- ![](https://raw.githubusercontent.com/Pia007/Pia007/main/profile-summary-card-output/cobalt2/3-stats.svg) -->
 
 
 
