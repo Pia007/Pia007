@@ -82,10 +82,10 @@ Hi! I am Pia. Thanks for taking a look at my profile and taking a look at my rep
 <!-- #### Weekly -->
 <!-- <div style="border: 1px solid #00ccff; background-color: black; padding: 10px 0px 0px 0px"> -->
 <!--START_SECTION:waka-->
-<!-- 
+
 ```txt
 No activity tracked
-``` -->
+```
 
 <!--END_SECTION:waka-->
 
