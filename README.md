@@ -84,8 +84,7 @@ Hi! I am Pia. Thanks for taking a look at my profile and taking a look at my rep
 <!--START_SECTION:waka-->
 
 ```txt
-JSON    6 mins          █████████████████████▓░░░   87.29 %
-Other   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
