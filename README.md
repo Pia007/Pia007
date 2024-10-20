@@ -84,7 +84,11 @@ Hi! I am Pia. Thanks for taking a look at my profile and taking a look at my rep
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 hr 3 mins     ████████████████████▒░░░░   80.76 %
+Bash         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Git Config   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
