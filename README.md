@@ -84,11 +84,11 @@ Hi! I am Pia. Thanks for taking a look at my profile and taking a look at my rep
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 51 mins   █████████████▒░░░░░░░░░░░   53.21 %
-C#           2 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
-Bash         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-TSConfig     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-SQL          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+TypeScript   4 hrs 45 mins   █████████████▓░░░░░░░░░░░   54.10 %
+C#           2 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   32.96 %
+Bash         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+TSConfig     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+SQL          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
