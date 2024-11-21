@@ -84,11 +84,11 @@ Hi! I am Pia. Thanks for taking a look at my profile and taking a look at my rep
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 49 mins   ██████████████████████▒░░   89.06 %
-Bash         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-SQL          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+TypeScript   6 hrs 57 mins   █████████████████████░░░░   84.52 %
+Bash         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+SQL          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
