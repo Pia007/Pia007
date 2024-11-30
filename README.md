@@ -84,9 +84,9 @@ Hi! I am Pia. Thanks for taking a look at my profile and taking a look at my rep
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    5 hrs 55 mins   ████████████████▓░░░░░░░░   66.17 %
-CSS           2 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
-JavaScript    40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+TypeScript    5 hrs 53 mins   ████████████████▓░░░░░░░░   66.05 %
+CSS           2 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
+JavaScript    40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
 Other         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 SQL           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
