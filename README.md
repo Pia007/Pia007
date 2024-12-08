@@ -2,7 +2,7 @@
 ![header](github-header.png)
 
 
-Hi! I am Pia. Thanks for taking a look at my profile and taking a look at my repositories. 
+Hi! I am Pia. Thanks for taking a look at my personal GitHub profile and taking a look at my repositories. 
 
 <!-- Contacts -->
 :mailbox: Contact me!
@@ -97,9 +97,9 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&&lang_count=10&&title_color=00ccff&text_color=00ccff&border_color=00ccff&bg_color=000000&langs_count=3" alt="pia007" />
 </p>  -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia007&layout=compact) -->
 
-![](https://raw.githubusercontent.com/Pia007/Pia007/main/profile-summary-card-output/algolia/0-profile-details.svg) -->
+<!-- ![](https://raw.githubusercontent.com/Pia007/Pia007/main/profile-summary-card-output/algolia/0-profile-details.svg) -->
 
 <!-- ![](https://raw.githubusercontent.com/Pia007/Pia007/main/profile-summary-card-output/cobalt2/3-stats.svg) -->
 
