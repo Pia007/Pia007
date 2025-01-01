@@ -84,10 +84,10 @@ Hi! I am Pia. Thanks for taking a look at my personal GitHub profile.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   49 mins         ████████████████████░░░░░   79.78 %
-TSConfig     7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-JSON         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+TypeScript   4 hrs 38 mins   ███████████████████████░░   91.92 %
+TSConfig     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
