@@ -84,7 +84,7 @@ Hi! I am Pia. Thanks for taking a look at my personal GitHub profile.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSS   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
