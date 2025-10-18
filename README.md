@@ -84,11 +84,11 @@ Hi! I am Pia. Thanks for taking a look at my personal GitHub profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       9 hrs 4 mins    ███████████████▓░░░░░░░░░   63.24 %
-Markdown     4 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   31.55 %
-Git Config   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Python       6 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.91 %
+Markdown     4 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.02 %
+Git Config   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
