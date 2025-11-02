@@ -84,8 +84,8 @@ Hi! I am Pia. Thanks for taking a look at my personal GitHub profile.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   9 hrs 12 mins   ████████████████████████▓   98.60 %
-HTML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python   3 hrs 2 mins    ████████████████████████░   95.88 %
+HTML     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
