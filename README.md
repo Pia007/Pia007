@@ -4,6 +4,12 @@
 
 Hi! I am Pia. Thanks for taking a look at my personal GitHub profile. 
 
+<!-- <p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=blue&style=for-the-badge" alt="pia007" />
+
+</p> -->
+
 <!-- Contacts -->
 :mailbox: Contact me!
 
@@ -66,30 +72,26 @@ Hi! I am Pia. Thanks for taking a look at my personal GitHub profile.
 [![Project](https://img.shields.io/badge/-Car_Dealership-blue?style=for-the-badge&labelColor)](https://car-app-wjuvn76ckq-uc.a.run.app/)
 [![Project](https://img.shields.io/badge/-Colour_Mi`_Chic-blue?style=for-the-badge&labelColor)](https://colourmichic-cmc.com/)
 [![Project](https://img.shields.io/badge/-medView-blue?style=for-the-badge&labelColor)](https://github.com/Pia007/medView/)
-[![Project](https://img.shields.io/badge/-Viva_Las_Vegas-blue?style=for-the-badge&labelColor)](https://viva-las-vegas.herokuapp.com/)
+<!-- [![Project](https://img.shields.io/badge/-Viva_Las_Vegas-blue?style=for-the-badge&labelColor)](https://viva-las-vegas.herokuapp.com/) -->
 [![Project](https://img.shields.io/badge/-Host_a_Healthcare_Hero-blue?style=for-the-badge&labelColor)](https://hostahealtcarehero.netlify.app/)
 
 
 <!-- Stats -->
-## Statistics
+<!-- ## Statistics -->
 
-<p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=pia007&label=Profile%20views&color=blue&style=for-the-badge" alt="pia007" />  [![wakatime](https://wakatime.com/badge/user/b3513b54-9e2d-4fc6-b997-adc0799b4502.svg?style=for-the-badge)](https://wakatime.com/@b3513b54-9e2d-4fc6-b997-adc0799b4502)
-
-</p>
 
 <!-- #### Weekly -->
 <!-- <div style="border: 1px solid #00ccff; background-color: black; padding: 10px 0px 0px 0px"> -->
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript   10 hrs 55 mins  ███████████████████████░░   92.32 %
+<!-- ```txt -->
+<!-- TypeScript   10 hrs 55 mins  ███████████████████████░░   92.32 %
 JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
 SQL          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % -->
+<!-- ``` -->
 
 <!--END_SECTION:waka-->
 
