@@ -69,8 +69,8 @@ Hi! I am Pia. Thanks for taking a look at my personal GitHub profile.
 [![Portfolio Website](https://img.shields.io/badge/-Pia_Torain-blue?style=for-the-badge&labelColor)](https://piatorain.com/)
 
 ## Projects
-[![Project](https://img.shields.io/badge/-Car_Dealership-blue?style=for-the-badge&labelColor)](https://car-app-wjuvn76ckq-uc.a.run.app/)
-[![Project](https://img.shields.io/badge/-Colour_Mi`_Chic-blue?style=for-the-badge&labelColor)](https://colourmichic-cmc.com/)
+<!-- [![Project](https://img.shields.io/badge/-Car_Dealership-blue?style=for-the-badge&labelColor)](https://car-app-wjuvn76ckq-uc.a.run.app/) -->
+[![Project](https://img.shields.io/badge/-Colour_Mi`_Chic-blue?style=for-the-badge&labelColor)](https://colourmichic.com/)
 [![Project](https://img.shields.io/badge/-medView-blue?style=for-the-badge&labelColor)](https://github.com/Pia007/medView/)
 <!-- [![Project](https://img.shields.io/badge/-Viva_Las_Vegas-blue?style=for-the-badge&labelColor)](https://viva-las-vegas.herokuapp.com/) -->
 [![Project](https://img.shields.io/badge/-Host_a_Healthcare_Hero-blue?style=for-the-badge&labelColor)](https://hostahealtcarehero.netlify.app/)
